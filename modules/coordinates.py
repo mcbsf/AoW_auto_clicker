@@ -21,6 +21,10 @@ class CoordinatesController:
                     'X': int(1609),
                     'Y': int(852),
                 },
+                'start': {
+                    'X': int(1609),
+                    'Y': int(852),
+                },
                 'next_battle': {
                     'X': int(1688),
                     'Y': int(777),
@@ -38,12 +42,12 @@ class CoordinatesController:
                     'Y': int(165),
                 },
                 'headHuntHard': {
-                    'X': int(1245),
-                    'Y': int(685)#600,
+                    'X': int(1768),
+                    'Y': int(950)#600,
                 },
                 'headHuntEasy': {
-                    'X': int(1240),
-                    'Y': int(498)#450,
+                    'X': int(1768),
+                    'Y': int(880)#450,
                 }     
             }
 
